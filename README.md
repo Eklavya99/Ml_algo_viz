@@ -1,4 +1,7 @@
 # Machine learning algorithm visualizer
+
+### Try it out - [project Link](https://share.streamlit.io/eklavya99/ml_algo_viz/main/app.py)
+
 This is an interactive learning and exploration tool that lets user pick an algorithm and a dataset of his choice and lets him/her play arround with the algorithm's hyperparameters while 
 showing instantly how any change in hyperParameters values affect accuracy & decision boundry computed by the algorithm.
 
