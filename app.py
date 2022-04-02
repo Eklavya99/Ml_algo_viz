@@ -182,7 +182,7 @@ with colxx:
         st.pyplot(ax1)
 with colyy:
         st.write('Test data shape - ', X_test.shape)
-        st.metric('Test accuracy' , round(Trainacc,3))
+        st.metric('Test accuracy' , round(Testacc,3))
         st.pyplot(ax2)
 
 with st.container():
