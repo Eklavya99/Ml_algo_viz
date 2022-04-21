@@ -1,4 +1,4 @@
-# Machine learning algorithm visualizer
+# Machine learning algorithm visualizer/UI based HyperParameter tuning application
 
 ### Try it out - [project Link](https://share.streamlit.io/eklavya99/ml_algo_viz/main/app.py)
 
@@ -10,11 +10,12 @@ Often times when people first start out with ML getting an intuitive idea about 
 This tool can be used to understand how model's parameters afftect accuracy and various other things in ML like overfitting, underfitting, generalization and decision boundry. Not only that it can also be used as a tool to explore different sets of hyper parameters and how each affects the model's accuracy.
 
 ## Frameworks used
-This project was made using [python] and following python libraries - [streamLit](https://streamlit.io/) [scikit-learn](https://scikit-learn.org/stable/) [numpy](https://numpy.org/) [matplotlib](https://matplotlib.org/)
+This project was made using [python](https://www.python.org/) and following python libraries - [streamLit](https://streamlit.io/) [scikit-learn](https://scikit-learn.org/stable/) [numpy](https://numpy.org/) [matplotlib](https://matplotlib.org/)
 
 
 ##what I learned
 How to create an app using streamLit and deploy it
+working with Sklearn
 
 ## what's next for this project 
 I've had a few extra idea that i'll add to this project in future, like -
