@@ -14,8 +14,8 @@ This project was made using [python](https://www.python.org/) and following pyth
 
 
 ## what I learned
-How to create an app using streamLit and deploy it
-working with Sklearn
+1) How to create an app using streamLit and deploy it
+2) working with Sklearn
 
 ## what's next for this project 
 I've had a few extra idea that i'll add to this project in future, like -
