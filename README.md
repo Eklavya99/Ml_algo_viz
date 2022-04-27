@@ -13,7 +13,7 @@ This tool can be used to understand how model's parameters afftect accuracy and 
 This project was made using [python](https://www.python.org/) and following python libraries - [streamLit](https://streamlit.io/) [scikit-learn](https://scikit-learn.org/stable/) [numpy](https://numpy.org/) [matplotlib](https://matplotlib.org/)
 
 
-##what I learned
+## what I learned
 How to create an app using streamLit and deploy it
 working with Sklearn
 
