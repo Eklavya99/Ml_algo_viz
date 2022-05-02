@@ -1,4 +1,4 @@
-# Machine learning algorithm visualizer/UI based HyperParameter tuning application
+# UI based HyperParameter tuning application
 
 ### Try it out - [project Link](https://share.streamlit.io/eklavya99/ml_algo_viz/main/app.py) *(use a laptop/PC)*
 
