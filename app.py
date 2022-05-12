@@ -14,7 +14,7 @@ import plots
 import numpy as np
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
-st.title("Machine learning Algorithms Vizualization")
+st.title("HyperTUNE")
 
 algos = ['Logistic Regression','KNN', 'Decision tree', 'Random Forest', 'XGB', 'SVM']
 data = ['Moons', 'Circles']
