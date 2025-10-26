@@ -3,5 +3,6 @@ numpy==1.19.5
 scikit_learn==1.0.2
 streamlit==1.18.1
 protobuf==3.20.3
+altair==4.2.0
 pip==22.0.4
 click==8
